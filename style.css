@@ -1,0 +1,113 @@
+.form-block {
+    position: fixed;
+    left: 739px;
+    top: 282px;
+  }
+  
+  .field-label {
+    font-family: Code, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+  }
+  
+  .text-field {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #000;
+    border-radius: 1px;
+    font-family: 'PT Sans', sans-serif;
+    color: #000;
+  }
+  
+  .submit-button {
+    position: fixed;
+    left: 739px;
+    border-radius: 4px;
+    background-color: #000;
+    font-family: Code, sans-serif;
+  }
+  
+  .div-block {
+    position: fixed;
+    left: 623px;
+    top: 187px;
+    width: 400px;
+    height: 300px;
+    border-radius: 15px;
+    background-color: #7e7e7e;
+  }
+  
+  .div-block-2 {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: #240707;
+    color: #0a0a0a;
+  }
+  
+  .image {
+    position: fixed;
+    top: -4px;
+    width: 100%;
+    height: 200%;
+  }
+  
+  .columns {
+    position: fixed;
+    left: 233px;
+    top: 296px;
+    z-index: 99999;
+    height: 900px;
+  }
+  
+  .image-2 {
+    position: fixed;
+    width: 100%;
+    height: 1500px;
+  }
+  
+  .heading {
+    position: fixed;
+    left: 0px;
+    top: 807px;
+    width: 999999px;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    color: #fff;
+    font-size: 75px;
+  }
+  
+  .text-block {
+    position: fixed;
+    left: 501px;
+    top: 747px;
+    font-family: Code, sans-serif;
+    color: #fff;
+    font-size: 30px;
+  }
+  
+  .section {
+    position: fixed;
+    top: -4px;
+    width: 1700px;
+    height: 1700px;
+  }
+  
+  .container {
+    position: fixed;
+    left: 818px;
+    top: 255px;
+  }
+  
+  .image-3 {
+    position: fixed;
+    left: 519px;
+    top: 36px;
+    width: 700px;
+  }
+  @font-face {
+    font-family: 'Code';
+    src: url('https://uploads-ssl.webflow.com/640165bd3e117010982a52cc/640252edfd70b68187be3149_Code.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
