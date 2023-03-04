@@ -17,6 +17,8 @@
     border-radius: 1px;
     font-family: 'PT Sans', sans-serif;
     color: #000;
+    left: 40px;
+    box-shadow: #0a0a0a 5px;
   }
   
   .submit-button {
@@ -25,6 +27,18 @@
     border-radius: 4px;
     background-color: #000;
     font-family: Code, sans-serif;
+    color: #fff;
+    bottom: 585px;
+    cursor: crosshair;
+    height: 30px;
+    box-shadow: 9px rgb(19, 19, 19);
+  }
+
+  .submit-button:hover {
+    background-color: #1e1e1e;
+  }
+  .submit-button:active {
+    background-color: rgb(69, 69, 69);
   }
   
   .div-block {
@@ -35,6 +49,7 @@
     height: 300px;
     border-radius: 15px;
     background-color: #7e7e7e;
+    box-shadow: #000 5px;
   }
   
   .div-block-2 {
@@ -50,6 +65,7 @@
     top: -4px;
     width: 100%;
     height: 200%;
+    left: -0px;
   }
   
   .columns {
@@ -64,6 +80,8 @@
     position: fixed;
     width: 100%;
     height: 1500px;
+    left: -0px;
+    top: -20px;
   }
   
   .heading {
@@ -110,4 +128,7 @@
     font-weight: 400;
     font-style: normal;
     font-display: swap;
+  }
+  .inputcontainer {
+    bottom: 40px;
   }
